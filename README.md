@@ -1,4 +1,3 @@
-```markdown
 # Task 2 – Meta‑heuristic Hyper‑parameter Optimisation  
 Optimising **RandomForestClassifier** hyper‑parameters with Genetic
 Algorithm (GA), Particle Swarm Optimisation (PSO) and
@@ -187,5 +186,4 @@ details.
 
 *Happy Optimising!* 🚀
 
-```
 ```
